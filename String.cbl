@@ -19,7 +19,7 @@
                STRING
                    'RARIKMILKRAI'
                    ' '
-                   'SOUZA'
+                   'SOUZA DA SILVA'
                    DELIMITED BY SIZE INTO WS-CONTEUDO
                END-STRING
 
