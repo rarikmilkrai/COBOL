@@ -15,6 +15,7 @@
            03 WS-BAIRRO            PIC X(20).
            03 WS-CIDADE            PIC X(30).
        PROCEDURE DIVISION.
+
             DISPLAY 'O COMPRIMENTO DO GRUPO ENDERECO É: '
                                        LENGTH OF WS-ENDERECO
             COMPUTE WS-COMPRIMENTO = FUNCTION LENGTH (WS-ENDERECO)
